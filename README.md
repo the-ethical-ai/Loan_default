@@ -1,15 +1,17 @@
-# Loan Default Prediction Analysis
+# Loan Default Prediction Project
 ---
 ## Overview of the Project
 
-Welcome to the loan default prediction analysis project! Based on the dataset sourced from [here](https://www.kaggle.com/datasets/nikhil1e9/loan-default), the aim of 
-this project is threeford:
+Based on the loan default dataset sourced from [here](https://www.kaggle.com/datasets/nikhil1e9/loan-default), this project aims to develop a machine learning model that predicts whether a loan will ultimately default. Written using Python, SQL, and Jupyter notebooks, the project began in mid-September and is expected to be completed in late September/early October.
 
-1. Determine the relative impacts of different persons' characteristics on their likelihood to default on a loan.
-2. Provide easily and quickly interpretable visualizations of the above findings.
-3. Create models to predict whether a given person should be expected to default on a loan.
+## History of the Project
+
+* Update 1: Data imported, cleaned, and first visuals developed.
+* Update 2: Logistic regression model created as baseline.
+* Update 3: Multiple classification models developed and tested; random forest and xgboost models selected for further refinement.
+* Update 4: Cross validation and Grid Search used to find optimal parameters for models; final models developed.
+* Update 5: ONGOING--code is being refined and final report has begun production.
 
 ## Disclaimer
 
-This is currently a work-in-progress and may undergo significant changes in scope and design as the project progresses. It is currently expected to be completed in 
-early October 2023.  
+This is currently a work-in-progress and may undergo significant changes in scope and design as the project progresses. It is also being developed by me alone and so, may be subject to an inconsistent update schedule.
