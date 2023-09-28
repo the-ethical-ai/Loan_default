@@ -10,7 +10,8 @@ Based on the loan default dataset sourced from [here](https://www.kaggle.com/dat
 * Update 2: Logistic regression model created as baseline.
 * Update 3: Multiple classification models developed and tested; random forest and xgboost models selected for further refinement.
 * Update 4: Cross validation and Grid Search used to find optimal parameters for models; final models developed.
-* Update 5: ONGOING--code is being refined and final report has begun production.
+* Update 5: Full report sections 1-3 drafts complete
+* Update 6: ONGOING; modeling sections drafts being written.
 
 ## Disclaimer
 
