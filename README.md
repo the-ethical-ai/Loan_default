@@ -4,6 +4,8 @@
 
 Based on the loan default dataset sourced from [here](https://www.kaggle.com/datasets/nikhil1e9/loan-default), this project aims to develop a machine learning model that predicts whether a loan will ultimately default. Written using Python, SQL, and Jupyter notebooks, the project began in mid-September and is expected to be completed in late September/early October.
 
+**NOTE:** The final report--*Loan_Default_Full_Report.ipynb*--is currently a draft and has not been proofed. All code is functional but there may be syntactical errors.
+
 ## History of the Project
 
 * Update 1: Data imported, cleaned, and first visuals developed.
