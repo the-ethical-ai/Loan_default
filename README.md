@@ -8,11 +8,11 @@
 
 ## Overview of the Project
 
-Based on the ![Coursera loan default prediction challenge]("https://www.coursera.org/projects/data-science-coding-challenge-loan-default-prediction#details"), this project covers the development of machine learning models that predicts whether a loan will ultimately default. Written using Python, SQL, and Jupyter notebooks, the project began in mid-September. Version 1 was release September 30th, 2023. Version 2, which is intended to include an expanded number of models tested and alternative tuning of the hyperparameters, is expected to be released in mid/late October 2023.
+Based on the ![Coursera loan default prediction challenge]("https://www.coursera.org/projects/data-science-coding-challenge-loan-default-prediction#details"), this project covers the development of machine learning models that predicts whether a loan will ultimately default. Utilizing Python libraries including *pandas*, *matplotlib*, *seaborn*, and *sklearn*, two models with XGBoost and Random Forest designs deliver accuracies above 92% with similarly strong performances across other classification metrics.
 
-<div>
-<img width="499" alt="Screenshot 2023-09-30 at 2 36 48 AM" src="https://github.com/Habeus-Crimpus/Loan_default/assets/96104109/c993bdcd-cdcb-466d-b088-8b9a37cd0c01">
-</div>
+The project began in mid-September. Version 1 was release September 30th, 2023. 
+
+Version 2, which is intended to include an expanded number of models tested and alternative tuning of the hyperparameters, is expected to be released in mid/late October 2023.
 
 ---
 
