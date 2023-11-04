@@ -10,21 +10,12 @@
 
 Based on the ![Coursera loan default prediction challenge]("https://www.coursera.org/projects/data-science-coding-challenge-loan-default-prediction#details"), this project covers the development of machine learning models that predicts whether a loan will ultimately default. Utilizing Python libraries including *pandas*, *matplotlib*, *seaborn*, and *sklearn*, two models with XGBoost and Random Forest designs deliver accuracies above 92% with similarly strong performances across other classification metrics.
 
-The project began in mid-September. Version 1 was release September 30th, 2023. 
-
-Version 2, which is intended to include an expanded number of models tested and alternative tuning of the hyperparameters, is expected to be released in mid/late October 2023.
-
 ---
 
 ## History of the Project
 
-* Update 1: Data imported, cleaned, and first visuals developed.
-* Update 2: Logistic regression model created as baseline.
-* Update 3: Multiple classification models developed and tested; random forest and xgboost models selected for further refinement.
-* Update 4: Cross validation and Grid Search used to find optimal parameters for models' accuracies; final models developed.
-* Update 5: Full report sections 1-3 drafts complete
-* Update 6: Version 1 of the full report complete
-* Update 7: ONGOING; version 1 proofing and small fixes ongoing
+* *Version 1*: Released on September 30th, 2023, it covered the development of multiple models, ultimately suggesting the use of either an XGBoost or Random Forest model.
+* *Version 2*: Expected to released in early November 2023, it will include the addition of a heatmap exploring feature correlation, a discussion of the importance of the features for the XGBoost and random forest models, and an ethical concerns section. Other improvements and small bug fixes will also be added (exact details pending development).
 
 ## Disclaimer
 
