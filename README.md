@@ -14,7 +14,7 @@ Based on the Coursera Loan Prediction Challenge, this project covers the develop
 ## History of the Project
 
 * *Version 1*: Released on September 30th, 2023, it covered the development of multiple models, ultimately suggesting the use of either an XGBoost or Random Forest model.
-* *Version 2*: Released on November 6th, 2023, it includes the addition of a heatmap exploring feature correlation, a discussion of the importance of the features for the XGBoost and random forest models, and an ethical concerns section. Other improvements and small bug fixes will also be added (exact details pending development).
+* *Version 2*: Released on November 14th, 2023, it includes the addition of a heatmap exploring feature correlation, a discussion of the importance of the features for the XGBoost and random forest models, and an ethical concerns section. Other improvements and small bug fixes will also be added (exact details pending development).
 
 ## Disclaimer
 
